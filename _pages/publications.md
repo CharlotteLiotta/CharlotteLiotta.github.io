@@ -1,16 +1,21 @@
 ---
 layout: archive
-title: "Publications"
-permalink: /publications/
+title: "Research"
+permalink: /research/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
 {% include base_path %}
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+# Publications
+* Liotta, C., Viguié, V., Creutzig, F. (2023). Environmental and welfare gains via urban transport policy portfolios across 120 cities. Nature Sustainability, https://doi.org/10.1038/s41893-023-01138-0.
+* Lepetit, Q., Viguié, V., Liotta, C. (2023). A gridded dataset on densities, real estate prices, transport, and land use inside 192 worldwide urban areas. Data in Brief 47, 108962, ISSN 2352-3409, https://doi.org/10.1016/j.dib.2023.108962.
+* Viguié, V., Liotta, C., Pfeiffer, B., Coulombel, N. (2023). Can public transport improve accessibility for the poor over the long term? Empirical evidence in Paris, 1968–2010. Journal of Transport Geography 106, 103473. https://doi.org/10.1016/j.jtrangeo.2022.103473
+* Liotta, C., Viguié, V., Lepetit, Q. (2022). Testing the monocentric standard urban model in a global sample of cities, Regional Science and Urban Economics, 103832, ISSN 0166-0462. https://doi.org/10.1016/j.regsciurbeco.2022.103832.
+* Liotta, C., Viguié, V. (2021). Pourquoi les villes continuent-elles à s’étendre ?. Regards croisés sur l’économie, 28, 178-188. https://doi.org/10.3917/rce.028.0178.
+* Liotta C., Kervinio Y., Levrel H., Tardieu L. (2020). Planning for environmental justice – reducing well-being inequalities through urban greening, Environmental Science & Policy 112, 47-60. https://doi.org/10.1016/j.envsci.2020.03.017.
+
+# Working papers
+
+* Liotta, C., Avner, P., Hallegatte, S. 2023. Efficiency and Equity in Urban Flood Management Policies: A Systematic Urban Economics Exploration. Policy Research Working Papers 10292. World Bank Group, Washington, DC.
+* Liotta, C., Avner, P., Viguié, V., Selod, H., Hallegatte, S. 2022. Climate policy and inequality in urban areas: beyond incomes. Policy Research Working Papers 10185. World Bank, Washington, DC.
