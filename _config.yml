@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : @CharlotteLiotta
+  username               : &twitter
 facebook:
   username               :
   app_id                 :
@@ -85,10 +85,9 @@ author:
   bio              : "PhD Candidate at CIRED, Paris, and Technische Universität Berlin"
   location         : "Paris, France"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  googlescholar    : "https://scholar.google.com/citations?user=MNG_-64AAAAJ&hl=fr&oi=ao"
+  email            :  "charlotte.liotta@gmail.com"
+  researchgate     :  "https://www.researchgate.net/profile/Charlotte-Liotta"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,20 +95,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "https://github.com/CharlotteLiotta"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  LinkedIn         : "https://www.linkedin.com/in/charlotte-liotta-523b56138/"
+  orcid            : "https://orcid.org/0000-0003-1412-6694"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "@CharlotteLiotta"
   vine             :
   weibo            :
   xing             :
