@@ -15,5 +15,5 @@ redirect_from:
 * Lecture on [“Cities and Climate Change”](http://charlotteliotta.github.io/files/Villes_et_climat-11.pdf), as part of the course [“Introduction to the economic and (geo)political issues of the energy transition and climate change”](https://www.vincentviguie.com/courses/enpc_energie_climat/), Ecole des Ponts ParisTech (June 2022).
 
 # Supervision
-* Supervision of [Lou Mandonnet](https://www.centre-cired.fr/lou-mandonnet/)’s internship (Spring 2022).
+* Co-supervision of [Lou Mandonnet](https://www.centre-cired.fr/lou-mandonnet/)’s internship (AgroParisTech) with Vincent Viguié (spring 2022).
 
