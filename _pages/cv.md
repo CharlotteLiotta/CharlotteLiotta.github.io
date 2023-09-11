@@ -15,8 +15,9 @@ Current position
   
 Education
 ======
-* 2018-2019: **Master in Economics** (Ecole Polytechnique, ENSAE, HEC, ENS Paris-Saclay). Master thesis: [Planning for environmental justice – reducing well-being inequalities through urban greening](https://doi.org/10.1016/j.envsci.2020.03.017), supervised by [Léa Tardieu](https://leatardieu.wordpress.com/) and [Yann Kervinio](https://www.centre-cired.fr/yann-kervinio/).
-* 2016-2019: **ENSAE ParisTech**. Master degree in Economics and Statistics. Specialization: Data Science and Social Sciences.
+* 2018-2019: **Master in Economics** (Ecole Polytechnique and ENSAE, France). Master thesis: [Planning for environmental justice – reducing well-being inequalities through urban greening](https://doi.org/10.1016/j.envsci.2020.03.017), supervised by [Léa Tardieu](https://leatardieu.wordpress.com/) and [Yann Kervinio](https://www.centre-cired.fr/yann-kervinio/).
+* 2016-2019: **ENSAE ParisTech** (Paris, France). Engineering degree in Economics and Statistics. Specialization: Data Science and Social Sciences.
+* 2014-2016: Two years of intensive preparatory courses in Economics and Social Sciences (BL), Lycee Janson-de-Sailly (Paris, France).
 
 Work experience
 ======
