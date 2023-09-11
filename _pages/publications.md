@@ -16,7 +16,6 @@ Links to the [Press Release](https://www.mcc-berlin.net/en/news/information/info
 Links to the [Twitter thread](https://twitter.com/CharlotteLiotta/status/1611027241063911425) and [The Conversation Blog Post](https://theconversation.com/developper-le-reseau-de-transports-en-commun-beneficie-t-il-vraiment-aux-plus-pauvres-198261).
 * Liotta, C., Viguié, V., Lepetit, Q. (2022). [Testing the monocentric standard urban model in a global sample of cities]( https://doi.org/10.1016/j.regsciurbeco.2022.103832). Regional Science and Urban Economics, 103832, ISSN 0166-0462. https://doi.org/10.1016/j.regsciurbeco.2022.103832.\
 Link to the [Twitter thread](https://twitter.com/CharlotteLiotta/status/1564195282438455298).
-* Liotta, C., Viguié, V. (2021). [Pourquoi les villes continuent-elles à s’étendre ?](https://doi.org/10.3917/rce.028.0178). Regards croisés sur l’économie, 28, 178-188. https://doi.org/10.3917/rce.028.0178.
 * Liotta C., Kervinio Y., Levrel H., Tardieu L. (2020). [Planning for environmental justice – reducing well-being inequalities through urban greening](https://doi.org/10.1016/j.envsci.2020.03.017), Environmental Science & Policy 112, 47-60. https://doi.org/10.1016/j.envsci.2020.03.017.\
 Link to the [Open Access paper](https://enpc.hal.science/hal-02883575), a [short summary of the methods](https://idefese.files.wordpress.com/2020/01/note_inegalites-1.pdf), and the media coverage by [Libération](https://www.liberation.fr/terre/2020/11/17/acces-a-la-nature-le-probleme-est-plus-important-pour-les-populations-qui-cumulent-les-inegalites_1805870/), [Le Parisien](https://www.leparisien.fr/seine-saint-denis-93/en-ile-de-france-des-milliers-d-habitants-n-ont-pas-d-acces-a-la-nature-a-moins-d-1-km-de-chez-eux-15-11-2020-8408465.php) and [BFM TV](https://www.bfmtv.com/paris/88-000-franciliens-n-ont-pas-d-espace-vert-a-moins-d-un-kilometre-de-chez-eux_AV-202011190235.html).
 
@@ -26,3 +25,11 @@ Link to the [Open Access paper](https://enpc.hal.science/hal-02883575), a [short
 Link to the [World Bank Blog Post](https://blogs.worldbank.org/developmenttalk/efficiency-and-equity-urban-flood-management-policies-systematic-urban-economics).
 * Liotta, C., Avner, P., Viguié, V., Selod, H., Hallegatte, S. 2022. [Climate policy and inequality in urban areas: beyond incomes](https://openknowledge.worldbank.org/handle/10986/38040). Policy Research Working Papers 10185. World Bank, Washington, DC.\
 Link to the [Twitter thread](https://twitter.com/hallegatte/status/1572244403292438529) and [VoxEU Blog Post](https://cepr.org/voxeu/columns/inequalities-urban-climate-policies-spatial-perspective).
+
+# Work in progress
+
+* Liotta, C. What drives inequalities in Low Emission Zones' impacts on job accessibility?
+
+# Other writings
+
+* Liotta, C., Viguié, V. (2021). [Pourquoi les villes continuent-elles à s’étendre ?](https://doi.org/10.3917/rce.028.0178). Regards croisés sur l’économie, 28, 178-188. https://doi.org/10.3917/rce.028.0178.
