@@ -17,3 +17,5 @@ The main focus of my Ph.D. is on applying a collection of spatially explicit urb
 
 Before my Ph.D., I worked for the World Bank on [flood modeling and urban resilience](https://documents1.worldbank.org/curated/en/099527102062332327/pdf/IDU0e0eee23a036c7040f20898009edeafa81b36.pdf) and on the [distributional impacts of urban climate policies](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4494028). I did my economics master thesis at CIRED, France, and at the French Ministry of Environment on the topic of [environmental justice and urban greening in the Paris metropolitan area](https://www.sciencedirect.com/science/article/abs/pii/S146290111931086X?via%3Dihub).
 
+You can download my CV [here](https://charlotteliotta.github.io/files/academic_cv.pdf).
+
