@@ -9,6 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
+
+You can download my full CV [here](https://charlotteliotta.github.io/files/academic_cv.pdf).
+
 Current position
 ======
 * 2021-2023: **PhD Candidate at CIRED and Technische Universität Berlin**. Topic: *Large-scale urban modeling for environmental diagnosis and policy*. Advisors: [Vincent Viguié](https://www.vincentviguie.com/) and [Felix Creutzig](https://www.mcc-berlin.net/en/about/team/creutzig-felix.html).
