@@ -29,7 +29,7 @@ Link to the [Twitter thread](https://twitter.com/hallegatte/status/1572244403292
 # Work in progress
 
 * Liotta, C. What drives inequalities in Low Emission Zones' impacts on job accessibility?
-* Javaid, A., Soomauroo, Z., Ayaragarnchanakul, E., Hu, J., Emodi, N.V., Liotta, C., Sohail Ahmad, S., Creutzig, F. Prevent Carmageddon, facilitate livability: Multi-prong, multi-level policy approaches for rapidly growing cities in developing countries.
+* Javaid, A., Soomauroo, Z., Ayaragarnchanakul, E., Hu, J., Emodi, N.V., Liotta, C., Ahmad, S., Creutzig, F. Prevent Carmageddon, facilitate livability: Multi-prong, multi-level policy approaches for rapidly growing cities in developing countries.
 * Creutzig, F., Becker, S., Berrill, P., Bussler, A., Cave, B., Constantino, S., Grant, M., Heeren, N., Heinen, E., Hintz, J., Ingen-Housz, T., Johnson, E., Kolleck, N., Liotta, C., Lorek, S., Mattioli, G., Niamir, L., McPhearson, T., Milojevic-Dupont, N., Nachtigall, F., Nagel, K., Närger, H., Pathak, M., Perrin de Brichambaut, P., Reckien, D., Reisch, L. A., Revi, A., Schuppert, F., Sudmant, A., Wagner, F., Walkenhorst, J., Weber, E., Wilmes, M., Wilson, C., Zekar, A. By and for people: Towards a public policy of cities and human settlements in the 21st century.
 
 # Other writings
