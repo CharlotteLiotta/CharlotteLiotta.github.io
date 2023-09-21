@@ -32,6 +32,9 @@ Link to the [Twitter thread](https://twitter.com/hallegatte/status/1572244403292
 * Javaid, A., Soomauroo, Z., Ayaragarnchanakul, E., Hu, J., Emodi, N.V., Liotta, C., Ahmad, S., Creutzig, F. Prevent Carmageddon, facilitate livability: Multi-prong, multi-level policy approaches for rapidly growing cities in developing countries.
 * Creutzig, F., Becker, S., Berrill, P., Bussler, A., Cave, B., Constantino, S., Grant, M., Heeren, N., Heinen, E., Hintz, J., Ingen-Housz, T., Johnson, E., Kolleck, N., Liotta, C., Lorek, S., Mattioli, G., Niamir, L., McPhearson, T., Milojevic-Dupont, N., Nachtigall, F., Nagel, K., Närger, H., Pathak, M., Perrin de Brichambaut, P., Reckien, D., Reisch, L. A., Revi, A., Schuppert, F., Sudmant, A., Wagner, F., Walkenhorst, J., Weber, E., Wilmes, M., Wilson, C., Zekar, A. By and for people: Towards a public policy of cities and human settlements in the 21st century.
 
+# Policy reports
+* Tardieu L, Viguié V, Hamel P, Lemonsu A, de Munck C., Kervinio Y, Coste L, Claron C, Faure E, Geoffroy E, Liotta C, Mikou M, Ta M-T, Levrel H. 2021. [Prise en compte des services écosystémiques dans les décisions d’aménagement urbain – Méthodologie et retour d’expérience pilote IDEFESE menée en Île-de-France](https://www.ecologie.gouv.fr/sites/default/files/Efese_M%C3%A9thodologie_retour_exp%C3%A9rience_projet_IDEFESE.pdf). Rapport EFESE, La Documentation Française, France.
+
 # Other writings
 
 * Liotta, C., Viguié, V. (2021). [Pourquoi les villes continuent-elles à s’étendre ?](https://doi.org/10.3917/rce.028.0178). Regards croisés sur l’économie, 28, 178-188. https://doi.org/10.3917/rce.028.0178.
