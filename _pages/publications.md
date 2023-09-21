@@ -21,7 +21,7 @@ Link to the [Open Access paper](https://enpc.hal.science/hal-02883575), a [short
 
 # Working papers
 
-* Liotta, C., Avner, P., Hallegatte, S. 2023. [Efficiency and Equity in Urban Flood Management Policies: A Systematic Urban Economics Exploration](https://documents1.worldbank.org/curated/en/099527102062332327/pdf/IDU0e0eee23a036c7040f20898009edeafa81b36.pdf). Policy Research Working Papers 10292. World Bank Group, Washington, DC.\
+* Liotta, C., Avner, P., Hallegatte, S. (2023). [Efficiency and Equity in Urban Flood Management Policies: A Systematic Urban Economics Exploration](https://documents1.worldbank.org/curated/en/099527102062332327/pdf/IDU0e0eee23a036c7040f20898009edeafa81b36.pdf). Policy Research Working Papers 10292. World Bank Group, Washington, DC.\
 Link to the [World Bank Blog Post](https://blogs.worldbank.org/developmenttalk/efficiency-and-equity-urban-flood-management-policies-systematic-urban-economics).
 * Liotta, C., Avner, P., Viguié, V., Selod, H., Hallegatte, S. 2022. [Climate policy and inequality in urban areas: beyond incomes](https://openknowledge.worldbank.org/handle/10986/38040). Policy Research Working Papers 10185. World Bank, Washington, DC.\
 Link to the [Twitter thread](https://twitter.com/hallegatte/status/1572244403292438529) and [VoxEU Blog Post](https://cepr.org/voxeu/columns/inequalities-urban-climate-policies-spatial-perspective).
@@ -33,7 +33,7 @@ Link to the [Twitter thread](https://twitter.com/hallegatte/status/1572244403292
 * Creutzig, F., Becker, S., Berrill, P., Bussler, A., Cave, B., Constantino, S., Grant, M., Heeren, N., Heinen, E., Hintz, J., Ingen-Housz, T., Johnson, E., Kolleck, N., Liotta, C., Lorek, S., Mattioli, G., Niamir, L., McPhearson, T., Milojevic-Dupont, N., Nachtigall, F., Nagel, K., Närger, H., Pathak, M., Perrin de Brichambaut, P., Reckien, D., Reisch, L. A., Revi, A., Schuppert, F., Sudmant, A., Wagner, F., Walkenhorst, J., Weber, E., Wilmes, M., Wilson, C., Zekar, A. By and for people: Towards a public policy of cities and human settlements in the 21st century.
 
 # Policy reports
-* Tardieu L, Viguié V, Hamel P, Lemonsu A, de Munck C., Kervinio Y, Coste L, Claron C, Faure E, Geoffroy E, Liotta C, Mikou M, Ta M-T, Levrel H. 2021. [Prise en compte des services écosystémiques dans les décisions d’aménagement urbain – Méthodologie et retour d’expérience pilote IDEFESE menée en Île-de-France](https://www.ecologie.gouv.fr/sites/default/files/Efese_M%C3%A9thodologie_retour_exp%C3%A9rience_projet_IDEFESE.pdf). Rapport EFESE, La Documentation Française, France.
+* Tardieu L, Viguié V, Hamel P, Lemonsu A, de Munck C., Kervinio Y, Coste L, Claron C, Faure E, Geoffroy E, Liotta C, Mikou M, Ta M-T, Levrel H. (2021). [Prise en compte des services écosystémiques dans les décisions d’aménagement urbain – Méthodologie et retour d’expérience pilote IDEFESE menée en Île-de-France](https://www.ecologie.gouv.fr/sites/default/files/Efese_M%C3%A9thodologie_retour_exp%C3%A9rience_projet_IDEFESE.pdf). Rapport EFESE, La Documentation Française, France.
 
 # Other writings
 
