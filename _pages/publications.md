@@ -10,6 +10,8 @@ author_profile: true
 # Publications
 * Liotta, C., Viguié, V., Creutzig, F. (2023). [Environmental and welfare gains via urban transport policy portfolios across 120 cities](https://www.nature.com/articles/s41893-023-01138-0). Nature Sustainability, https://doi.org/10.1038/s41893-023-01138-0.\
 Links to the [Press Release](https://www.mcc-berlin.net/en/news/information/information-detail/article/a-good-fifth-reduction-in-climate-gases-from-urban-traffic-in-15-years.html), [Twitter thread](https://twitter.com/CharlotteLiotta/status/1663909753741869056), [The Conversation Blog Post](https://theconversation.com/ameliorer-la-qualite-de-vie-urbaine-en-reduisant-les-emissions-de-gaz-a-effet-de-serre-cest-possible-208249), [Behind The Paper Blog Post](https://sustainabilitycommunity.springernature.com/posts/how-city-specific-policies-can-drive-sustainable-urban-transport).
+* Liotta, C., Avner, P., Viguié, V., Selod, H., Hallegatte, S. [Climate policy and inequality in urban areas: beyond incomes](https://openknowledge.worldbank.org/handle/10986/38040). Urban Climate (Accepted).\
+Link to the [Twitter thread](https://twitter.com/hallegatte/status/1572244403292438529) and [VoxEU Blog Post](https://cepr.org/voxeu/columns/inequalities-urban-climate-policies-spatial-perspective).
 * Lepetit, Q., Viguié, V., Liotta, C. (2023). [A gridded dataset on densities, real estate prices, transport, and land use inside 192 worldwide urban areas](https://doi.org/10.1016/j.dib.2023.108962). Data in Brief 47, 108962, ISSN 2352-3409, https://doi.org/10.1016/j.dib.2023.108962.\
 [Direct link to the data](https://zenodo.org/record/7086267).
 * Viguié, V., Liotta, C., Pfeiffer, B., Coulombel, N. (2023). [Can public transport improve accessibility for the poor over the long term? Empirical evidence in Paris, 1968–2010](https://doi.org/10.1016/j.jtrangeo.2022.103473). Journal of Transport Geography 106, 103473. https://doi.org/10.1016/j.jtrangeo.2022.103473.\
@@ -23,8 +25,6 @@ Link to the [Open Access paper](https://enpc.hal.science/hal-02883575), a [short
 
 * Liotta, C., Avner, P., Hallegatte, S. (2023). [Efficiency and Equity in Urban Flood Management Policies: A Systematic Urban Economics Exploration](https://documents1.worldbank.org/curated/en/099527102062332327/pdf/IDU0e0eee23a036c7040f20898009edeafa81b36.pdf). Policy Research Working Papers 10292. World Bank Group, Washington, DC.\
 Link to the [World Bank Blog Post](https://blogs.worldbank.org/developmenttalk/efficiency-and-equity-urban-flood-management-policies-systematic-urban-economics).
-* Liotta, C., Avner, P., Viguié, V., Selod, H., Hallegatte, S. 2022. [Climate policy and inequality in urban areas: beyond incomes](https://openknowledge.worldbank.org/handle/10986/38040). Policy Research Working Papers 10185. World Bank, Washington, DC.\
-Link to the [Twitter thread](https://twitter.com/hallegatte/status/1572244403292438529) and [VoxEU Blog Post](https://cepr.org/voxeu/columns/inequalities-urban-climate-policies-spatial-perspective).
 
 # Work in progress
 
