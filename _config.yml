@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Charlotte Liotta"
 title_separator          : "-"
 name                     : &name "Charlotte Liotta"
-description              : &description "PhD Candidate at CIRED and TU Berlin"
+description              : &description "Postdoctoral researcher at ICTA-UAB"
 url                      : https://charlotteliotta.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "CharlotteLiotta/CharlotteLiotta.github.io"
@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Charlotte Liotta"
   avatar           : "profile.jpg"
-  bio              : "PhD Candidate at CIRED and TU Berlin"
-  location         : "Paris, France"
+  bio              : "Postdoctoral researcher at ICTA-UAB"
+  location         : "Barcelona, Spain"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=MNG_-64AAAAJ&hl=fr&oi=ao"
-  email            :  "charlotte.liotta@gmail.com"
+  email            :  "Charlotte.Liotta@uab.cat"
   researchgate     :  "https://www.researchgate.net/profile/Charlotte-Liotta"
   uri              :
   bitbucket        :
