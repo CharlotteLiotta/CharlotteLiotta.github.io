@@ -14,7 +14,7 @@ You can download my full CV [here](https://charlotteliotta.github.io/files/acade
 
 Current position
 ======
-* 2024-: **Post-doctoral researcher at ICTA - UAB** within the [CLIMGROW](https://portalrecerca.uab.cat/en/projects/climate-policy-vs-economic-growth-opinions-models-and-novel-strat-2) ERC project. Topic: *Modeling public support for climate policies*. Advisor: [Jeroen van den Bergh](https://www.icrea.cat/Web/ScientificStaff/JeroenvandenBergh--424).
+* 2024-: **Post-doctoral researcher at ICTA - UAB** within the [CLIMGROW](https://portalrecerca.uab.cat/en/projects/climate-policy-vs-economic-growth-opinions-models-and-novel-strat-2) ERC project led by [Jeroen van den Bergh](https://www.icrea.cat/Web/ScientificStaff/JeroenvandenBergh--424). Topic: *Modeling public support for climate policies*.
   
 Education
 ======
