@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 # Guest lectures
-* [“Introduction to the growth-versus-environment debate“](http://charlotteliotta.github.io/files/growth_environment.pptx) (1h30), Ecole des Ponts ParisTech (February 2024).
+* [“Introduction to the growth-versus-environment debate“](http://charlotteliotta.github.io/files/growth_environment.pdf) (1h30), Ecole des Ponts ParisTech (February 2024).
 * [“Cities and Climate Change“](http://charlotteliotta.github.io/files/ATHENS.pdf) (3h), as part of the ATHENS program, AgroParisTech (November 2022, November 2023), of the course [“Introduction to the economic and (geo)political issues of the energy transition and climate change”](https://www.vincentviguie.com/courses/enpc_energie_climat/), Ecole des Ponts ParisTech (June 2022), and of the ["Energy, finance and carbon"](https://dauphine.psl.eu/formations/masters/economie-finance/m2-energie-finance-carbone) master of University Paris-Dauphine.
 * "Mitigating GHG emissions in developing country cities" (4h), as part of the course ["Urban planning in developing countries"](https://formations.univ-gustave-eiffel.fr/index.php?id=1941&L=1&tx_agof_brochure%5Bbrochure%5D=489&tx_agof_brochure%5Bcontroller%5D=Brochure&tx_agof_brochure%5Baction%5D=show&cHash=50642880a7a45212f483d97204af0ce1), Université Gustave Eiffel (November 2023).
 
