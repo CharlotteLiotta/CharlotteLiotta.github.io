@@ -8,7 +8,7 @@ author_profile: true
 {% include base_path %}
 
 # Publications
-* Liotta, C. (2024). [What drives inequalities in Low Emission Zones’ impacts on job accessibility?](https://doi.org/10.1016/j.tranpol.2024.10.029) *Transport Policy*, https://doi.org/10.1016/j.tranpol.2024.10.029.
+* Liotta, C. (2024). [What drives inequalities in Low Emission Zones’ impacts on job accessibility?](https://doi.org/10.1016/j.tranpol.2024.10.029) *Transport Policy*, https://doi.org/10.1016/j.tranpol.2024.10.029. Links to the [The Conversation Blog Post](https://theconversation.com/les-zones-a-faibles-emissions-sont-elles-inequitables-243994) and to a [France Culture podcast](https://www.radiofrance.fr/franceculture/podcasts/douce-france/du-grand-paris-au-grand-lyon-les-zfe-zones-de-forte-exclusion-2286702) (in French).
 * Creutzig, F., Becker, S., Berrill, P., Bussler, A., Cave, B., Constantino, S., Grant, M., Heeren, N., Heinen, E., Hintz, J., Ingen-Housz, T., Johnson, E., Kolleck, N., Liotta, C., Lorek, S., Mattioli, G., Niamir, L., McPhearson, T., Milojevic-Dupont, N., Nachtigall, F., Nagel, K., Närger, H., Pathak, M., Perrin de Brichambaut, P., Reckien, D., Reisch, L. A., Revi, A., Schuppert, F., Sudmant, A., Wagner, F., Walkenhorst, J., Weber, E., Wilmes, M., Wilson, C., Zekar, A. (2024). [Towards a public policy of cities and human settlements in the 21st century](https://www.nature.com/articles/s42949-024-00168-7). *npj Urban Sustainability* 4, 29.
 * Liotta, C., Avner, P., Viguié, V., Selod, H., Hallegatte, S. (2024). [Climate policy and inequality in urban areas: beyond incomes](https://authors.elsevier.com/a/1iHUt7s%7EEVsviS). *Urban Climate 53*, 101722. https://doi.org/10.1016/j.uclim.2023.101722.\
 Links to the [Twitter thread](https://twitter.com/hallegatte/status/1572244403292438529) and [VoxEU Blog Post](https://cepr.org/voxeu/columns/inequalities-urban-climate-policies-spatial-perspective).
@@ -28,6 +28,8 @@ Links to the [Open Access paper](https://enpc.hal.science/hal-02883575), a [shor
 Link to the [World Bank Blog Post](https://blogs.worldbank.org/developmenttalk/efficiency-and-equity-urban-flood-management-policies-systematic-urban-economics).
 
 # Work in progress
+* Liotta, C., van den Bergh, J. The debate on growth-versus-environment at the urban level.
+* Chiogna, E., Guldberg, V., Bellanca, M., King, L.C., Liotta, C., van den Bergh, J. Assessing the statistical, policy and communicative appeal of beyond-GDP indicators.
 * Javaid, A., Soomauroo, Z., Ayaragarnchanakul, E., Hu, J., Emodi, N.V., Liotta, C., Ahmad, S., Creutzig, F. Prevent Carmageddon, facilitate livability: Multi-prong, multi-level policy approaches for rapidly growing cities in developing countries.
 
 # Policy reports
