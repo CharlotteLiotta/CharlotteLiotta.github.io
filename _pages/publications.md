@@ -27,9 +27,7 @@ Links to the [Open Access paper](https://enpc.hal.science/hal-02883575), a [shor
 # Working papers
 * Liotta, C., Avner, P., Hallegatte, S. (2023). [Efficiency and Equity in Urban Flood Management Policies: A Systematic Urban Economics Exploration](https://documents1.worldbank.org/curated/en/099527102062332327/pdf/IDU0e0eee23a036c7040f20898009edeafa81b36.pdf). *Policy Research Working Papers* 10292. World Bank Group, Washington, DC.\
 Link to the [World Bank Blog Post](https://blogs.worldbank.org/developmenttalk/efficiency-and-equity-urban-flood-management-policies-systematic-urban-economics).
-
-# Work in progress
-* Chiogna, E., Guldberg, V., Bellanca, M., King, L.C., Liotta, C., van den Bergh, J. Assessing the statistical, policy and communicative appeal of beyond-GDP indicators.
+* Liotta, C., and van den Bergh, J. [Optimal trajectory of carbon pricing under a public-support constraint and opinion dynamics](http://charlotteliotta.github.io/files/public_support_optimal_pricing.pdf).
 
 # Policy reports
 * Tardieu L, Viguié V, Hamel P, Lemonsu A, de Munck C., Kervinio Y, Coste L, Claron C, Faure E, Geoffroy E, Liotta C, Mikou M, Ta M-T, Levrel H. (2021). [Prise en compte des services écosystémiques dans les décisions d’aménagement urbain – Méthodologie et retour d’expérience pilote IDEFESE menée en Île-de-France](https://www.ecologie.gouv.fr/sites/default/files/Efese_M%C3%A9thodologie_retour_exp%C3%A9rience_projet_IDEFESE.pdf). Rapport EFESE, La Documentation Française, France.
