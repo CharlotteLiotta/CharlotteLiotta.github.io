@@ -19,6 +19,7 @@ redirect_from:
 * [“Introduction to Economics“](http://gede.enpc.fr/Programme/fiche.aspx?param=M%3a1ECON) tutorials (35 hours), Ecole des Ponts ParisTech (September 2022 – January 2023).
   
 # Supervision
-* Co-supervision of Ioanna Mokka's and [Valentina Guldberg](https://portalrecerca.uab.cat/es/persons/valentina-guldberg)'s PhDs at ICTA - UAB, with Jeroen van den Bergh and Lewis King (2024 - 2028).
+* Co-supervision of [Ioanna Mokka](https://portalrecerca.uab.cat/en/persons/ioanna-mokka/)'s and [Valentina Guldberg](https://portalrecerca.uab.cat/es/persons/valentina-guldberg)'s PhDs at ICTA - UAB, with Jeroen van den Bergh and Lewis King (2024 - 2028).
+* Supervision of Agnès Braud's (AgroParisTech) internship (spring 2026).
 * Co-supervision of [Lou Mandonnet](https://www.centre-cired.fr/lou-mandonnet/)’s internship (AgroParisTech) with Vincent Viguié (spring 2022).
 
